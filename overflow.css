@@ -1,0 +1,11 @@
+.style {  
+  width: 100px;  
+  height: 100px;  
+  overflow: scroll;  
+}  
+
+.div1 {  
+  width: 400px;  
+  height: 400px;  
+  overflow: hidden;  
+}
